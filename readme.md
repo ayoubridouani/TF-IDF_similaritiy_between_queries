@@ -1,4 +1,5 @@
-# TF-IDF_similaritiy_between_queries
+## Description:
+Calculating the similarity of queries vector against every document in documents by TF-IDF 
 
 to contact me: ridouaniayoub@gmail.com
 
